@@ -13,7 +13,7 @@ class Circle :
 
 s=Circle(2)
 
-print(s.getarea() )
+print(s.getarea())
 print(s.getperimeter())
 
 
